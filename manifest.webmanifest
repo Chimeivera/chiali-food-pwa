@@ -1,0 +1,30 @@
+{
+  "id": "./",
+  "name": "115年度主管成長營｜餐點登記",
+  "short_name": "餐點登記",
+  "description": "115年度主管成長營成果發表餐點登記與統計",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "background_color": "#FBF8EF",
+  "theme_color": "#174D3B",
+  "lang": "zh-Hant",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
